@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#how-to-use">How To Use</a> • 
-  <a href="#authors-note">Author's Notes</a> 
+  <a href="#authors-note">Author's Note</a> 
 </p>
 
 > Are you a TikTok victim, doomed to a perpetually fractured attention span? Are you helpless to the urge to scroll mindlessly on Reddit while attempting to read a textbook? Are you desperate to overload your dopamine receptors with that sweet Subway Surfers gameplay? Well, thank the industrial revolution, for I have just the cure for you...
