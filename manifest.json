@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Subway Surfers Background Player",
+  "version": "1.0",
+  "description": "The ultimate fix for those plagued by their own tragically obliterated attention spans",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["popup.js"],
+      "css": ["popup.css"]
+    }
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
