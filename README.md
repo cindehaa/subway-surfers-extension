@@ -28,6 +28,7 @@ Chrome Menu > More Tools > Extensions > Developer Mode > Load Unpacked
 
 <ul>
   <li>I originally wanted to create an extension that would allow the user the dynamically resize and move the extension window, along with a "pin" button which would keep the extension running even when the user clicks somewhere else. These features, however, are not possible to implement in a Chrome web extension.</li>
+  <li>_TODO: Change the extension icon_
 </ul>
 
 ---
