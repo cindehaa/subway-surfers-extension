@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">The ultimate fix for those plagued by their own tragically obliterated attention spans</h4>
+<h4 align="center">The ultimate fix for those plagued by their own tragically obliterated attention spans...</h4>
 
 <p align="center">
   <a href="#how-to-use">How To Use</a> • 
